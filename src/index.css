@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeDown {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+}
+
+/* Base state */
+.fade-up {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+/* Animate in */
+.fade-up.show {
+  animation: fadeUp 0.8s ease-out forwards;
+}
+
+/* Animate out */
+.fade-up.hide {
+  animation: fadeDown 0.8s ease-in forwards;
+}
