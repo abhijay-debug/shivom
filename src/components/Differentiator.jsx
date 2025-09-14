@@ -4,7 +4,7 @@ const Differentiator = () => {
   return (
     <section id="differentiator" className="bg-gray-50 py-6">
   <div className="max-w-[1440px] mx-auto px-6 md:px-20">
-    <h2 className="fade-up text-5xl font-bold text-center p-2 mb-6 bg-[#398B99] bg-clip-text text-transparent">
+    <h2 className="fade-up text-3xl lg:text-5xl font-bold text-center p-2 mb-6 bg-[#398B99] bg-clip-text text-transparent">
       Why SHIV-AI? – Solving Your Pain Points
     </h2>
     <p className="fade-up text-xl text-center text-gray-700 max-w-3xl mx-auto mb-16">
