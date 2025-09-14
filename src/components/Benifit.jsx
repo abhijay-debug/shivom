@@ -3,7 +3,7 @@ import React from 'react'
 const Benifit = () => {
   return (
 //    <!-- Benefits Section -->
-<section id="benefits" className="bg-white py-24">
+<section id="benefits" className="bg-white py-6">
   <div className="lg:max-w-[1440px] lg:mx-auto lg:px-20">
     <h2 className="fade-up text-5xl font-bold text-center mb-6 bg-[#398B99] bg-clip-text text-transparent">
       What You'll Achieve

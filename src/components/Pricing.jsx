@@ -2,7 +2,7 @@ import React from 'react'
 
 const Pricing = () => {
   return (
-    <section className="py-24 bg-white" id="pricing">
+    <section className="py-6 bg-white" id="pricing">
   <div className="max-w-6xl mx-auto px-6">
     <h2 className="fade-up text-4xl md:text-5xl font-bold text-center mb-6 bg-[#398B99] bg-clip-text text-transparent">
       Investment in Your Transformation

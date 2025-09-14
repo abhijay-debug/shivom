@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 export default function Hero() {
 
   return (
-  <section id="hero" className="w-full  flex items-center overflow-hidden overflow-hidden mt lg:mt-2">
+  <section id="hero" className="w-full  flex items-center overflow-hidden overflow-hidden mt-4 lg:mt-2">
   <div className="fade-up overflow-hidden w-full lg:h-screen    overflow-hidden shadow-md rounded-md flex flex-col  lg:flex-row items-center justify-between  bg-[url('/images/heroimg.jpg')] bg-cover bg-center">
     
     {/* Left Content */}

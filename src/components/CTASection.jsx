@@ -14,7 +14,7 @@ const CTASection = () => {
     </p>
     <Form/>
           
-     <Footer/>
+     {/* <Footer/> */}
   </div>
 </section>
   )

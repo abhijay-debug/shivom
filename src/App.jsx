@@ -26,6 +26,7 @@ const App = () => {
      <TestimonialsSection/>
      <UpcomingWebinars/>
      <CTASection/>
+     <Footer/>
       </div>
   )
 }

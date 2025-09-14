@@ -2,7 +2,7 @@ import React from 'react'
 
 const HowItWorks = () => {
   return (
-    <section id="how-it-works" className="bg-white py-24">
+    <section id="how-it-works" className="bg-white py-6">
   <div className="max-w-[1440px] mx-auto px-6 md:px-20">
     <h2 className="fade-up text-5xl font-bold text-center mb-6 bg-[#398B99] bg-clip-text text-transparent">
       How It Works

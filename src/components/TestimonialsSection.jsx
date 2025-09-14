@@ -2,9 +2,9 @@ import React from 'react'
 
 const TestimonialsSection = () => {
   return (
-    <section id="testimonials" className="bg-white py-24">
+    <section id="testimonials" className="bg-white py-8">
   <div className="max-w-[1440px] mx-auto px-6 md:px-20">
-    <h2 className="fade-up text-5xl break-words   font-bold text-center mb-6 bg-[#398B99] bg-clip-text text-transparent">
+    <h2 className="fade-up lg:text-5xl text-3xl break-words   font-bold text-center mb-6 bg-[#398B99] bg-clip-text text-transparent">
       Transformations with SHIV-AI
     </h2>
     <p className="fade-up text-xl text-center text-gray-700 max-w-2xl mx-auto mb-16">
