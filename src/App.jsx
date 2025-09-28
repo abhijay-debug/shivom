@@ -11,6 +11,7 @@ import Pricing from './components/Pricing'
 import Footer from './components/Footer'
 import StoryOfShivAi from './components/StoryOfShivAi'
 import UpcomingWebinars from './components/UpcomingWebinars'
+import LifeStyleAi from './components/LifeStyleAi'
 
 const App = () => {
   return (
@@ -26,6 +27,7 @@ const App = () => {
      <TestimonialsSection/>
      <UpcomingWebinars/>
      <CTASection/>
+     <LifeStyleAi/>
      <Footer/>
       </div>
   )
